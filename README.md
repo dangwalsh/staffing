@@ -1,1 +1,1 @@
-This is a node.js project for controlling a staffing database for ennead.
+This is a node.js project for controlling a staffing database of a company.
