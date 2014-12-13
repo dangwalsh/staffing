@@ -1,3 +1,0 @@
-var three = require('three');
-
-var scene = three.THREE.Scene();
