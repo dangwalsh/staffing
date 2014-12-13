@@ -1,0 +1,21 @@
+{
+  "name": "staffing",
+  "version": "1.0.0",
+  "description": "ennead staffing database",
+  "main": "staffing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "staffing"
+  ],
+  "author": "daniel walsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.5"
+  }
+}
