@@ -5,6 +5,7 @@ node_modules
 .DS_Store
 .tern*
 TAGS
+*.log
 *~
-npm-debug.log
-.idea
+.*
+#*
