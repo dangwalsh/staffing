@@ -6,3 +6,5 @@ node_modules
 .tern*
 TAGS
 *~
+npm-debug.log
+.idea
